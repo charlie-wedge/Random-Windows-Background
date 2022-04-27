@@ -1,9 +1,13 @@
 > This simple program randomly changes the Windows background from an image in the images folder. This is especially useful to place in your startup folder, allowing a new random image each time you log in.
 
-Create a shortcut for the startup folder:
+**Create a shortcut for the startup folder:**
+
 1.) Create a shortcut for the start.vbs script.
+
 2.) Enter the shortcut properties, and under run, select "Minimized".
+
 3.) Press Apply and then OK.
+
 4.) place the newly created shortcut into your startup folder, which can be found in "C:\Users\{YOUR USERNAME HERE}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs".
 You may use a different method of running the script on startup if you wish.
 
